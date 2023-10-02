@@ -1,4 +1,3 @@
 ##This is a markdown file
-
-* Added header syntax 
-
+This is not a markdown file.
+This is a line inserted by yours truly, JahCorian
